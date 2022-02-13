@@ -8,4 +8,5 @@
 <img alt="pbiba" src="https://discord.c99.nl/widget/theme-4/910529879701860442.png" align="right"/>
 
 <code><img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"></code>
+<code><img height="40" src="https://brandslogos.com/wp-content/uploads/images/c-logo.png"></code>
 ---
