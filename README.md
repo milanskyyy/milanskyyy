@@ -10,5 +10,5 @@
 <code><img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"></code>
 <code><img height="40" src="https://brandslogos.com/wp-content/uploads/images/c-logo.png"></code>
 ---
-<code><img height="40" href="https://vk.com/milanskyyy" src="https://brandslogos.com/wp-content/uploads/images/large/vk-logo.png"></code>
+<code><img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/vk-logo.png" href="https://vk.com/milanskyyy"></code>
 
